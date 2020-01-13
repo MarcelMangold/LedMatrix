@@ -15,6 +15,7 @@
   "author": "Marcel Mangold",
   "license": "MIT",
   "dependencies": {
-    "node-gyp": "^6.1.0"
+    "node-gyp": "^6.1.0",
+    "rpi-led-matrix": "^1.7.2"
   }
 }
