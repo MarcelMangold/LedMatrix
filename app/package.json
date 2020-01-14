@@ -15,7 +15,12 @@
   "author": "Marcel Mangold",
   "license": "MIT",
   "dependencies": {
+    "@types/node": "^13.1.6",
     "node-gyp": "^6.1.0",
     "rpi-led-matrix": "^1.7.2"
+  },
+  "devDependencies": {
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.4"
   }
 }

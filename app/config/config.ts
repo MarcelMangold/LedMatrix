@@ -11,9 +11,9 @@ import {
     ...LedMatrix.defaultMatrixOptions(),
     rows: 32,
     cols: 64,
-    chainLength: 2,
+    chainLength: 1,
     hardwareMapping: GpioMapping.Regular,
-    parallel: 3,
+    parallel: 1,
     pixelMapperConfig: LedMatrixUtils.encodeMappers(
       { type: PixelMapperType.Chainlink }
     ),
