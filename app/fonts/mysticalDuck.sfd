@@ -1,0 +1,2402 @@
+SplineFontDB: 3.2
+FontName: Spleenmedium
+FullName: Spleen medium
+FamilyName: Spleen
+Weight: Medium
+Copyright: Copyright (c) 2018-2019, Frederic Cambus
+UComments: "2020-1-14: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 812
+Descent: 188
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Zur+APwA-ck" 1
+Layer: 1 0 "Zeichen" 0
+XUID: [1021 1 -538320801 3320]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1578998775
+ModificationTime: 1578998841
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: 64
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 29 11
+OnlyBitmaps: 1
+BeginChars: 65536 192
+
+StartChar: SPACE
+Encoding: 32 32 0
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: EXCLAMATION
+Encoding: 33 33 1
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: QUOTATION
+Encoding: 34 34 2
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: NUMBER
+Encoding: 35 35 3
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: DOLLAR
+Encoding: 36 36 4
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: PERCENT
+Encoding: 37 37 5
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: AMPERSAND
+Encoding: 38 38 6
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: APOSTROPHE
+Encoding: 39 39 7
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LEFT
+Encoding: 40 40 8
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: RIGHT
+Encoding: 41 41 9
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: ASTERISK
+Encoding: 42 42 10
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: PLUS
+Encoding: 43 43 11
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: COMMA
+Encoding: 44 44 12
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: HYPHEN-MINUS
+Encoding: 45 45 13
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: FULL
+Encoding: 46 46 14
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: SOLIDUS
+Encoding: 47 47 15
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: DIGIT
+Encoding: 48 48 16
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: DIGIT
+Encoding: 49 49 17
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: DIGIT
+Encoding: 50 50 18
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: DIGIT
+Encoding: 51 51 19
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: DIGIT
+Encoding: 52 52 20
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: DIGIT
+Encoding: 53 53 21
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: DIGIT
+Encoding: 54 54 22
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: DIGIT
+Encoding: 55 55 23
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: DIGIT
+Encoding: 56 56 24
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: DIGIT
+Encoding: 57 57 25
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: COLON
+Encoding: 58 58 26
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: SEMICOLON
+Encoding: 59 59 27
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LESS-THAN
+Encoding: 60 60 28
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: EQUALS
+Encoding: 61 61 29
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: GREATER-THAN
+Encoding: 62 62 30
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: QUESTION
+Encoding: 63 63 31
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: COMMERCIAL
+Encoding: 64 64 32
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 65 65 33
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 66 66 34
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 67 67 35
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 68 68 36
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 69 69 37
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 70 70 38
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 71 71 39
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 72 72 40
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 73 73 41
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 74 74 42
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 75 75 43
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 76 76 44
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 77 77 45
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 78 78 46
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 79 79 47
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 80 80 48
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 81 81 49
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 82 82 50
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 83 83 51
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 84 84 52
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 85 85 53
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 86 86 54
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 87 87 55
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 88 88 56
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 89 89 57
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 90 90 58
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LEFT
+Encoding: 91 91 59
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: REVERSE
+Encoding: 92 92 60
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: RIGHT
+Encoding: 93 93 61
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: CIRCUMFLEX
+Encoding: 94 94 62
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LOW
+Encoding: 95 95 63
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: GRAVE
+Encoding: 96 96 64
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 97 97 65
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 98 98 66
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 99 99 67
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 100 100 68
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 101 101 69
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 102 102 70
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 103 103 71
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 104 104 72
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 105 105 73
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 106 106 74
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 107 107 75
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 108 108 76
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 109 109 77
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 110 110 78
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 111 111 79
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 112 112 80
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 113 113 81
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 114 114 82
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 115 115 83
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 116 116 84
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 117 117 85
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 118 118 86
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 119 119 87
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 120 120 88
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 121 121 89
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 122 122 90
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LEFT
+Encoding: 123 123 91
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: VERTICAL
+Encoding: 124 124 92
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: RIGHT
+Encoding: 125 125 93
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: TILDE
+Encoding: 126 126 94
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: control
+Encoding: 127 127 95
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: NO-BREAK
+Encoding: 160 160 96
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: INVERTED
+Encoding: 161 161 97
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: CENT
+Encoding: 162 162 98
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: POUND
+Encoding: 163 163 99
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: CURRENCY
+Encoding: 164 164 100
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: YEN
+Encoding: 165 165 101
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: BROKEN
+Encoding: 166 166 102
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: SECTION
+Encoding: 167 167 103
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: DIAERESIS
+Encoding: 168 168 104
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: COPYRIGHT
+Encoding: 169 169 105
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: FEMININE
+Encoding: 170 170 106
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LEFT-POINTING
+Encoding: 171 171 107
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: NOT
+Encoding: 172 172 108
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: SOFT
+Encoding: 173 173 109
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: REGISTERED
+Encoding: 174 174 110
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: MACRON
+Encoding: 175 175 111
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: DEGREE
+Encoding: 176 176 112
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: PLUS-MINUS
+Encoding: 177 177 113
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: SUPERSCRIPT
+Encoding: 178 178 114
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: SUPERSCRIPT
+Encoding: 179 179 115
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: ACUTE
+Encoding: 180 180 116
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: MICRO
+Encoding: 181 181 117
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: PILCROW
+Encoding: 182 182 118
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: MIDDLE
+Encoding: 183 183 119
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: CEDILLA
+Encoding: 184 184 120
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: SUPERSCRIPT
+Encoding: 185 185 121
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: MASCULINE
+Encoding: 186 186 122
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: RIGHT-POINTING
+Encoding: 187 187 123
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: VULGAR
+Encoding: 188 188 124
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: VULGAR
+Encoding: 189 189 125
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: VULGAR
+Encoding: 190 190 126
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: INVERTED
+Encoding: 191 191 127
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 192 192 128
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 193 193 129
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 194 194 130
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 195 195 131
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 196 196 132
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 197 197 133
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 198 198 134
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 199 199 135
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 200 200 136
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 201 201 137
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 202 202 138
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 203 203 139
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 204 204 140
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 205 205 141
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 206 206 142
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 207 207 143
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 208 208 144
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 209 209 145
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 210 210 146
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 211 211 147
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 212 212 148
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 213 213 149
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 214 214 150
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: MULTIPLICATION
+Encoding: 215 215 151
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 216 216 152
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 217 217 153
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 218 218 154
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 219 219 155
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 220 220 156
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 221 221 157
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 222 222 158
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 223 223 159
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 224 224 160
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 225 225 161
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 226 226 162
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 227 227 163
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 228 228 164
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 229 229 165
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 230 230 166
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 231 231 167
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 232 232 168
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 233 233 169
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 234 234 170
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 235 235 171
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 236 236 172
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 237 237 173
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 238 238 174
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 239 239 175
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 240 240 176
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 241 241 177
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 242 242 178
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 243 243 179
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 244 244 180
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 245 245 181
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 246 246 182
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: DIVISION
+Encoding: 247 247 183
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 248 248 184
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 249 249 185
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 250 250 186
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 251 251 187
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 252 252 188
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 253 253 189
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 254 254 190
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LATIN
+Encoding: 255 255 191
+Width: 500
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+EndChars
+BitmapFont: 64 192 52 12 1 misc
+BDFStartProperties: 32
+COMMENT 1 "/*"
+COMMENT 1 "* Spleen 32x64 1.0.4"
+COMMENT 1 "* Copyright (c) 2018-2019, Frederic Cambus"
+COMMENT 1 "* https://www.cambus.net/"
+COMMENT 1 "*"
+COMMENT 1 "* Created:      2018-09-11"
+COMMENT 1 "* Last Updated: 2019-02-06"
+COMMENT 1 "*"
+COMMENT 1 "* Spleen is released under the BSD 2-Clause license."
+COMMENT 1 "* See LICENSE file for details."
+COMMENT 1 "*/"
+FONT 1 "-misc-spleen-medium-r-normal--64-640-72-72-C-320-iso10646-1"
+SIZE 1 "64 72 72"
+FONTBOUNDINGBOX 1 "32 64 0 -12"
+FAMILY_NAME 16 "Spleen"
+FOUNDRY 16 "misc"
+SLANT 16 "R"
+SETWIDTH_NAME 16 "Normal"
+PIXEL_SIZE 18 64
+POINT_SIZE 18 640
+RESOLUTION_X 19 72
+RESOLUTION_Y 19 72
+SPACING 16 "C"
+AVERAGE_WIDTH 18 320
+CHARSET_REGISTRY 16 "ISO10646"
+CHARSET_ENCODING 16 "1"
+MIN_SPACE 18 32
+FONT_ASCENT 18 52
+FONT_DESCENT 18 12
+COPYRIGHT 16 "Copyright (c) 2018-2019, Frederic Cambus"
+DEFAULT_CHAR 19 32
+_GBDFED_INFO 16 "Edited with gbdfed 1.6."
+BDFEndProperties
+Resolution: 72
+BDFChar: 0 32 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 1 33 32 0 31 -12 51
+zzzzzzzzzzzz!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":zzzzzz!!C":!!C":!!C":!!C":!!C":!!C":zzzzzzzzzzzz
+BDFChar: 2 34 32 0 31 -12 51
+zzzzzzzz"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S
+"2G#S"2G#S"2G#Szzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 3 35 32 0 31 -12 51
+zzzzzzzzzzzz"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S5QCc]5QCc]5QCc]5QCc]
+"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S
+"2G#S5QCc]5QCc]5QCc]5QCc]"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#Szzzzzzzzzzzz
+BDFChar: 4 36 32 0 31 -12 51
+zzzzzzzz!!C":!!C":!!C":!!C":!.Y%<!WW2h"98Dj#QOhn#K+=W%thXt%g0TI%g0TI%g0TI
+%g0TI%g0TI%g0TI%g0TI%g0TI%thXt#K+=W#QOc'"98CO!WW28!.Y%,!!C-s!!C(,!!C%+!!C%+
+!!C%+!!C%+!!C%+!!C%+!!C%+!!C%+!!C%+!!C%+!!C%+!!C%+!!C(,!!C-s&-)[f&-)[F&-)Z[
+&-)V/!!C":!!C":!!C":!!C":zzzzzzzz
+BDFChar: 5 37 32 0 31 -12 51
+zzzzzzzzzzzz!!!&X!!!&X!VccT"8i8Z#G)19#G)19#G)HV#G)HV#G*";#G*";"8k=_!VehY
+!!%BH!!%BH!!)co!!)co!!2Qh!!2Qh!!D-Z!!D-Z!!g:>!!g:>!"XS[!"XS[!$;1@!$;1@!'UA_
+!'UA_!.5l=!.7#H!;Lit!;Lit!UtBm!UtBm"5nI_"5nI_#J`R>#J_F3#CldS#CldSzzzzzzzzzzzz
+BDFChar: 6 38 32 0 31 -12 51
+zzzzzzzzzzzz!$Ct9!.XtJ!<<'!!WW1M!UpVM"5jF""2G#S"2G#S"2G#S"2G#S"2G#S"2G#S
+"2G#S"2G#S"5jF"!UpVM!WW1M!<<'!!.XtJ!'g5Y!WTq8#QMR>&-(Pf+91g1*ru(T4og!"49.V8
+49-J]49,o-49,nB49,ll49,ll49,nB49,o-4oc\_*rnOp+9296&-)QT#QOQ]!WV'tzzzzzzzzzzzz
+BDFChar: 7 39 32 0 31 -12 51
+zzzzzzzz!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 8 40 32 0 31 -12 51
+zzzz!!!Q!!!#7Q!!*&g!!3,h!!E-!!!hun!"ZjF!$?^k!'^G`!'UA_!.4bH!.4bH!;HNo!;HNo
+!Up'h!Up'h"5j.Z"5j.Z"2Fm:"2Fm:#J^<>#J^<>#CldS#CldS#CldS#CldS#CldS#CldS#CldS
+#CldS#CldS#CldS#CldS#CldS#J^<>#J^<>"2Fm:"2Fm:"5j.Z"5j.Z!Up'h!Up'h!;HNo!;HNo
+!.4bH!.4bH!'UA_!'^G`!$?^k!"ZjF!!hun!!E-!!!3,h!!*&g!!#7Q!!!Q!zzzz
+BDFChar: 9 41 32 0 31 -12 51
+zzzz#P\9!#Q=]'#QK;S#QMR>!$C,!!!hun!!2ip!!)os!!%HJ!!#1_!!")@!!")@!!!O[!!!O[
+!!!8>!!!8>!!!,Z!!!,Z!!!&X!!!&X!!!&h!!!&h!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g
+!!!#g!!!#g!!!#g!!!#g!!!#g!!!&h!!!&h!!!&X!!!&X!!!,Z!!!,Z!!!8>!!!8>!!!O[!!!O[
+!!")@!!")@!!#1_!!%HJ!!)os!!2ip!!hun!$C,!#QMR>#QK;S#Q=]'#P\9!zzzz
+BDFChar: 10 42 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzz"2G#S"2G#S"5jF""7Qi:!Vdae!;o%]!.K@s!'gA]!$Ct9!"\Q!!"\Q!
+!"\Q!5QCc]5QCc]5QCc]5QCc]!"\Q!!"\Q!!"\Q!!$Ct9!'gA]!.K@s!;o%]!Vdae"7Qi:"5jF"
+"2G#S"2G#Szzzzzzzzzzzzzzzz
+BDFChar: 11 43 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":"98D:"98D:
+"98D:"98D:!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":zzzzzzzzzzzzzzzzzzzz
+BDFChar: 12 44 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!!C":!!C":!!C":!!C":!!C":!!C":
+!!g:>!"XS[!'bu6!'^G`!'UA_!&srYzzzzzzzz
+BDFChar: 13 45 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz&-)\!&-)\!&-)\!&-)\!zzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 14 46 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!!C":!!C":!!C":!!C":!!C":
+!!C":zzzzzzzzzzzz
+BDFChar: 15 47 32 0 31 -12 51
+zzzzzz!!!!]!!!!]!!!"H!!!"H!!!#o!!!#o!!!&h!!!&h!!!,Z!!!,Z!!!8>!!!8>!!!O[
+!!!O[!!")@!!")@!!#1_!!#1_!!%BH!!%BH!!)co!!)co!!2Qh!!2Qh!!D-Z!!D-Z!!g:>!!g:>
+!"XS[!"XS[!$;1@!$;1@!'UA_!'UA_!.4bH!.4bH!;HNo!;HNo!Up'h!Up'h"5j.Z"5j.Z#J^<>
+#J^<>%tFW[%tFW[*rl9@*rl9@4obQ_4obQ_49,?]49,?]zzzzzz
+BDFChar: 16 48 32 0 31 -12 51
+zzzzzzzzzzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!%fcV!%fcY"%fc_$%fck(
+%fd.0%fd^@%fei`%fh+K%flUu%fuUt%g2Ur%gVUn%hIUf%j/UV%mPU6%t=TK&,lRu&,ZFs&,6.o
+&+BSg&)[HW&&827%tFZL%fcV!%fcV!%fcV!%tF]M#J^H"#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 17 49 32 0 31 -12 51
+zzzzzzzzzzzz!"ZjF!$AuV!'e7!!.Vca!;jP3!V=),"67/s"2hnS","Ah!s?==!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":"98D:"98D:"98D:"98D:zzzzzzzzzzzz
+BDFChar: 18 50 32 0 31 -12 51
+zzzzzzzzzzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!!!!#g!!!#g!!!#g!!!#g
+!!!#g!!!&X!!!,Z!!!8>!!!O[!!")@!!#1_!!%BH!!)co!!2Qh!!D-Z!!g:>!"XS[!$;1@!'UA_
+!.4bH!;HNo!Up'h"5j.Z#J^<>%tFZL%fcV!%fcV!%fcV!&-)\!&-)\!&-)\!&-)\!zzzzzzzzzzzz
+BDFChar: 19 51 32 0 31 -12 51
+zzzzzzzzzzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!!!!#g!!!#g!!!#g!!!#g
+!!!#g!!!#g!!!&X!!!,:!'gL6!'gJ`!'gL6!'gL6!!!,:!!!&X!!!#g!!!#g!!!#g!!!#g!!!#g
+!!!#g!!!#g!!!#g!!!#g!!!#g%fcV!%fcV!%tF]M#J^H"#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 20 52 32 0 31 -12 51
+zzzzzzzzzzzz%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fd+?%fd+?%fd+?%fd+?
+%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?&-)\!&-)\!&-)\!
+&-)\!!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0zzzzzzzzzzzz
+BDFChar: 21 53 32 0 31 -12 51
+zzzzzzzzzzzz&-)\!&-)\!&-)\!&-)\!%fcV!%fcV!%fcV!%fcV!%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0&-)V/&-)Z[&-)[F&-)[f!!!,Z!!!&h!!!#g!!!#g!!!#g!!!#g!!!#g
+!!!#g!!!#g!!!#g!!!#g!!!#g%fcV!%fcV!%tF]M#J^H"#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 22 54 32 0 31 -12 51
+zzzzzzzzzzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0&-)V/&-)Z[&-)[F&-)[f%fc^i%fcY"%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tF]M#J^H"#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 23 55 32 0 31 -12 51
+zzzzzzzzzzzz&-)\!&-)\!&-)\!&-)\!%fcV!%fcV!%fcV!%fcV!!!!#g!!!#g!!!#g!!!#g
+!!!#g!!!&h!!!,Z!!!8>!!!O[!!")@!!#1_!!%BH!!)co!!2Qh!!D-Z!!g:>!"XS[!"T&0!"T&0
+!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0zzzzzzzzzzzz
+BDFChar: 24 56 32 0 31 -12 51
+zzzzzzzzzzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!#Clj5"2G#S!WW1M!<<'!!<<'!!WW1M"2G#S#Clj5%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tF]M#J^H"#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 25 57 32 0 31 -12 51
+zzzzzzzzzzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<!!!#g!!!#g!!!#g
+!!!#g!!!#g!!!#g!!!#g!!!#g%fcV!%fcV!%tF]M#J^H"#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 26 58 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzzzz!!C":!!C":!!C":!!C":!!C":!!C":zzzzzzzzzzzzzz!!C":
+!!C":!!C":!!C":!!C":!!C":zzzzzzzzzzzz
+BDFChar: 27 59 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzzzz!!C":!!C":!!C":!!C":!!C":!!C":zzzzzzzzzzzz!!C":
+!!C":!!C":!!C":!!C":!!C":!!g:>!"XS[!'bu6!'^G`!'UA_!&srYzzzzzzzz
+BDFChar: 28 60 32 0 31 -12 51
+zzzzzzzzzzzz!!!,j!!!8^!!!PF!!"*k!!#4`!!%HJ!!)os!!2ip!!D]j!!hE^!"ZjF!$?^k
+!'^G`!.FnJ!;lfs!VcWp"7Q9j#N,R^&&8/F&&8/F&&8/F&&8/F#N,R^"7Q9j!VcWp!;lfs!.FnJ
+!'^G`!$?^k!"ZjF!!hE^!!D]j!!2ip!!)os!!%HJ!!#4`!!"*k!!!PF!!!8^!!!,jzzzzzzzzzzzz
+BDFChar: 29 61 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz&-)\!&-)\!&-)\!&-)\!zzzzzzzz&-)\!&-)\!&-)\!&-)\!
+zzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 30 62 32 0 31 -12 51
+zzzzzzzzzzzz&&8/F#N,R^"7Q9j!VcWp!;lfs!.FnJ!'^G`!$?^k!"ZjF!!hE^!!D]j!!2ip
+!!)os!!%HJ!!#4`!!"*k!!!PF!!!8^!!!,j!!!,j!!!,j!!!,j!!!8^!!!PF!!"*k!!#4`!!%HJ
+!!)os!!2ip!!D]j!!hE^!"ZjF!$?^k!'^G`!.FnJ!;lfs!VcWp"7Q9j#N,R^&&8/Fzzzzzzzzzzzz
+BDFChar: 31 63 32 0 31 -12 51
+zzzzzzzzzzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!!!!#g!!!#g!!!#g!!!#g
+!!!&X!!!,:!!!7S!!!N0!!"&?!!#+]!!%6D!!%6D!!)Kg!!)Kg!!2!X!!2!X!!C":!!C":!!C":
+!!C":zzzzzz!!C":!!C":!!C":!!C":!!C":!!C":zzzzzzzzzzzz
+BDFChar: 32 64 32 0 31 -12 51
+zzzzzzzzzzzzzzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!%fcV!%fcV!%g2=j
+%g2=j%g2=j%g2=j%g2=j%g2=j%g2=j%g2=j%g2=j%g2=j%g2=j%g2=j%g2k$%g2k$%g2k$%g2k$
+%fcS0%fcS0%fcS0%fcS0%tFW[#J^<>#QOh>"98D:!WW28!.Y$azzzzzzzzzzzz
+BDFChar: 33 65 64 -4 54 0 50
+zzzzzzzzzzzzzzzzzzz5Q1W_z^]T)ezJ,m@b!!!!"J,isW!!!!"!!"\Q!!!!$!!!E-!!!!#
+!!!8>!!!!#!!!8^!!!!#!!!,Z!!!!#!!"\1!!3'#!!i\b!"K$]!$D=C!&+D-!C-bf!$D80"onc+
+!+5dh&-)h5!'gMa!!"8E!'gMa+9;TF!'gMf!*TL*!.Y&0*5D[W!.YIh&.f*I!.Y.'0OQR7!/:^Y
+J,nL-!.YUa!!@`O!.YU`!%n6O!.Y2;!Pe[8!/(@Q!rr<$!/q<d"98E%!5JR7$ig8-!'gMa&-)\1
+!'gMa&-)\1!'gMa&-)\1!$D7A+92BA!&+BQ+92BA!#P\9?iU0,!"Ju/^]4?7!!D-[J,fQL!!#7_
+zzzzzzzzzzz
+BDFChar: 34 66 32 0 31 -12 51
+zzzzzzzzzzzz&-)V/&-)Z[&-)[F&-)[f%fc^i%fcY"%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcXg%fc^I&-)Z[&-)Y0&-)Y0&-)Z[%fc^I%fcXg%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcY"%fc^i&-)[f&-)[F&-)Z[&-)V/zzzzzzzzzzzz
+BDFChar: 35 67 32 0 31 -12 51
+zzzzzzzzzzzz!.Y%<!WW2h"98Dj#QOhn#J^<>%tFW[%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%tFW[#J^<>#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 36 68 32 0 31 -12 51
+zzzzzzzzzzzz&-)V/&-)Z[&-)[F&-)[f%fc^i%fcY"%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcY"%fc^i&-)[f&-)[F&-)Z[&-)V/zzzzzzzzzzzz
+BDFChar: 37 69 32 0 31 -12 51
+zzzzzzzzzzzz!.Y%<!WW2h"98Dj#QOhn#J^<>%tFW[%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0&-)P-&-)P-&-)P-&-)P-%fcS0%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%tFW[#J^<>#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 38 70 32 0 31 -12 51
+zzzzzzzzzzzz!.Y%<!WW2h"98Dj#QOhn#J^<>%tFW[%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0&-)P-&-)P-&-)P-&-)P-%fcS0%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0zzzzzzzzzzzz
+BDFChar: 39 71 32 0 31 -12 51
+zzzzzzzzzzzz!.Y%<!WW2h"98Dj#QOhn#J^<>%tFW[%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%flY!%flY!%flY!%flY!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 40 72 32 0 31 -12 51
+zzzzzzzzzzzz%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!&-)\!&-)\!&-)\!&-)\!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!zzzzzzzzzzzz
+BDFChar: 41 73 32 0 31 -12 51
+zzzzzzzzzzzz"98D:"98D:"98D:"98D:!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":"98D:"98D:"98D:"98D:zzzzzzzzzzzz
+BDFChar: 42 74 32 0 31 -12 51
+zzzzzzzzzzzz"98D:"98D:"98D:"98D:!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!g:>!"XS[5Q?665Q:]`5Q1W_5PP3Yzzzzzzzzzzzz
+BDFChar: 43 75 32 0 31 -12 51
+zzzzzzzzzzzz%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcY"%fc^i%fcjM%fd,j%fd[O&-)V/&-)P-&-)P-&-)V/%fd[O%fd,j%fcjM%fc^i%fcY"
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!zzzzzzzzzzzz
+BDFChar: 44 76 32 0 31 -12 51
+zzzzzzzzzzzz%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%tFW[#J^<>#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 45 77 32 0 31 -12 51
+zzzzzzzzzzzz%fcV!%tF]M&&8;:&)[]^&+C,!&,779&,\Z]%t8us%mU!]%j1T9%hJ1!%gV%^
+%g0W:%fq4M%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!zzzzzzzzzzzz
+BDFChar: 46 78 32 0 31 -12 51
+zzzzzzzzzzzz%fcV!%fcV!%tFZL%tFZL&&827&&827&)[HW&)[HW&+BSg&+BSg&,6.o&,6.o
+%t"BH%t"BH%mC!_%mC!_%j(f@%j(f@%hF3[%hF3[%gTo>%gTo>%g1bZ%g1bZ%fu1h%fu1h%flCo
+%flCo%fh"H%fh"H%fef_%fef_%fd^@%fd^@%fd.0%fd.0%fck(%fck(%fc_$%fc_$zzzzzzzzzzzz
+BDFChar: 47 79 32 0 31 -12 51
+zzzzzzzzzzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tF]M#J^H"#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 48 80 32 0 31 -12 51
+zzzzzzzzzzzz&-)V/&-)Z[&-)[F&-)[f%fc^i%fcY"%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcY"%fc^i&-)[f&-)[F&-)Z[&-)V/%fcS0%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0zzzzzzzzzzzz
+BDFChar: 49 81 32 0 31 -12 51
+zzzzzzzzzzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%g0W:%g0W:%g1bZ%g1bZ%fu1h%fu1h%tOKF#Jg5p#QOh^"98D:!WW1M!.XtJ!!")@!!")@
+!!!O[!!!O[!!!8>!!!8>!!!,:!!!,:zzzz
+BDFChar: 50 82 32 0 31 -12 51
+zzzzzzzzzzzz&-)V/&-)Z[&-)[F&-)[f%fc^i%fcY"%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcY"%fc^i%fcjM&-)Z[&-)Y0&-)Y0&-)Z[%fcjM%fc^i%fcY"%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!zzzzzzzzzzzz
+BDFChar: 51 83 32 0 31 -12 51
+zzzzzzzzzzzz!.Y%<!WW2h"98Dj#QOhn#J^<>%tFW[%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%tFW[#J^<>#QOc'"98CO!WW28!.Y%,!!!,Z!!!&h!!!#g!!!#g!!!#g
+!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!&h!!!,Z&-)[f&-)[F&-)Z[&-)V/zzzzzzzzzzzz
+BDFChar: 52 84 32 0 31 -12 51
+zzzzzzzzzzzz5QCc]5QCc]5QCc]5QCc]!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":zzzzzzzzzzzz
+BDFChar: 53 85 32 0 31 -12 51
+zzzzzzzzzzzz%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 54 86 32 0 31 -12 51
+zzzzzzzzzzzz%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%tF]M#J^H""5jF"!UpVM!;IW9!.6s1!'Yc1!$Ct9!"\Q!!!hE^!!C":zzzzzzzzzzzz
+BDFChar: 55 87 32 0 31 -12 51
+zzzzzzzzzzzz%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fq4M
+%g0W:%gV%^%hJ1!%j1T9%mU!]%t8us&,\Z]&,779&+C,!&)[]^&&8;:%tF]M%fcV!zzzzzzzzzzzz
+BDFChar: 56 88 32 0 31 -12 51
+zzzzzzzzzzzz%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%tF]M#J^H""5jF"!UpVM!<<'!!.XtJ!.XtJ!<<'!!UpVM"5jF"#J^H"%tF]M%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!zzzzzzzzzzzz
+BDFChar: 57 89 32 0 31 -12 51
+zzzzzzzzzzzz%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<!!!#g!!!#g!!!#g!!!#g!!!#g
+!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!&h!!!,Z&-)[f&-)[F&-)Z[&-)V/zzzzzzzzzzzz
+BDFChar: 58 90 32 0 31 -12 51
+zzzzzzzzzzzz&-)\!&-)\!&-)\!&-)\!!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!&h
+!!!,Z!!!8>!!!O[!!")@!!#1_!!%BH!!)co!!2Qh!!D-Z!!g:>!"XS[!$;1@!'UA_!.4bH!;HNo
+!Up'h"5j.Z#J^<>%tFW[%fcS0%fcS0%fcS0%fcS0%fcS0&-)\!&-)\!&-)\!&-)\!zzzzzzzzzzzz
+BDFChar: 59 91 32 0 31 -12 51
+zzzz!<<)g!<<)g!<<)g!<<)g!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg
+!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg
+!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg
+!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!<<)g!<<)g!<<)g!<<)gzzzz
+BDFChar: 60 92 32 0 31 -12 51
+zzzzzz49,?]49,?]4obQ_4obQ_*rl9@*rl9@%tFW[%tFW[#J^<>#J^<>"5j.Z"5j.Z!Up'h
+!Up'h!;HNo!;HNo!.4bH!.4bH!'UA_!'UA_!$;1@!$;1@!"XS[!"XS[!!g:>!!g:>!!D-Z!!D-Z
+!!2Qh!!2Qh!!)co!!)co!!%BH!!%BH!!#1_!!#1_!!")@!!")@!!!O[!!!O[!!!8>!!!8>!!!,Z
+!!!,Z!!!&h!!!&h!!!#o!!!#o!!!"H!!!"H!!!!]!!!!]zzzzzz
+BDFChar: 61 93 32 0 31 -12 51
+zzzz&-)Y0&-)Y0&-)Y0&-)Y0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0
+!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0
+!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0
+!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0!!!N0&-)Y0&-)Y0&-)Y0&-)Y0zzzz
+BDFChar: 62 94 32 0 31 -12 51
+zzzzzzzz!!C":!!hE^!"\Q!!$Ct9!'gA]!.XtJ!;o%]!Vdae"7Qi:#N,jF&&8;:++OCe56(]]
+4obS149,@D2uipuzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 63 95 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz5QCc]5QCc]5QCc]
+5QCc]zzzz
+BDFChar: 64 96 32 0 31 -12 51
+zzzzzzzz!&srY!'C5]!'UA_!'^G`!$?^k!"ZjF!!hE^!!D]j!!2ip!!)os!!%BH!!#+]zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 65 97 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz"98?#"98CO"98D:"98DZ!!!,Z!!!&h!!!#g!!!#g!!!#g!!!#g
+!.Y%<!WW2h"98Dj#QOhn#J^?/%tFZL%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn
+"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 66 98 32 0 31 -12 51
+zzzzzzzzzzzz%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+&-)V/&-)Z[&-)[F&-)[f%fc^i%fcY"%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcY"%fc^i&-)[f&-)[F&-)Z[&-)V/zzzzzzzzzzzz
+BDFChar: 67 99 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz!.Y%<!WW2h"98Dj#QOhn#J^<>%tFW[%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%tFW[#J^<>#QOhn
+"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 68 100 32 0 31 -12 51
+zzzzzzzzzzzz!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g
+!.Y%<!WW2h"98Dj#QOhn#J^?/%tFZL%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 69 101 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz!.Y%<!WW2h"98Dj#QOhn#J^?/%tFZL%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!&-)\!&-)\!&-)\!&-)\!%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%tFW[#J^<>#QOhn
+"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 70 102 32 0 31 -12 51
+zzzzzzzzzzzz!!3,8!!iP>!"]+F!$D6V!$;1@!'UA_!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]
+!'C5]!'C5]!'C5]!'C5]"989!"989!"989!"989!!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]
+!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]zzzzzzzzzzzz
+BDFChar: 71 103 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz!.Y%<!WW2h"98Dj#QOhn#J^?/%tFZL%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tF]=#J^GW#QOgS
+"98B$!WW0"!.Y$!!!!,:!!!&X!!!#g!!!#g!!!#g!!!#g!!!&h!!!,Z&-)[f&-)[F&-)Z[&-)V/
+
+BDFChar: 72 104 32 0 31 -12 51
+zzzzzzzzzzzz%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+&-)V/&-)Z[&-)[F&-)[f%fc^i%fcY"%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!zzzzzzzzzzzz
+BDFChar: 73 105 32 0 31 -12 51
+zzzzzzzzzzzz!!C":!!C":!!C":!!C":!!C":!!C":zzzzzz!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":zzzzzzzzzzzz
+BDFChar: 74 106 32 0 31 -12 51
+zzzzzzzzzzzz!!C":!!C":!!C":!!C":!!C":!!C":zzzzzz!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!g:>
+!"XS["93lO"9/?$"9&9#"8Dir
+BDFChar: 75 107 32 0 31 -12 51
+zzzzzzzzzzzz%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+%fdRL%fe]l%fgtW%flA)%fu/"%g1_i%gTlM%hF0j%j(cO%mBsn&,ZD-&,ZD-&,ZD-&,ZD-%mBsn
+%j(cO%hF0j%gTlM%g1_i%fu/"%flA)%fgtW%fecn%fd[O%fd,j%fcjM%fc^I%fc^Izzzzzzzzzzzz
+BDFChar: 76 108 32 0 31 -12 51
+zzzzzzzzzzzz!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]
+!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]
+!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'UA_!$;1@!$D6V!"]+F!!iP>!!3,8zzzzzzzzzzzz
+BDFChar: 77 109 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz&,\Tk&,\YB&,\Z-&,\ZM%g0`-%g0Z;%g0W:%g0W:%g0W:%g0W:
+%g0W:%g0W:%g0W:%g0W:%g0W:%g0W:%g0W:%g0W:%g0W:%g0W:%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!zzzzzzzzzzzz
+BDFChar: 78 110 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz&-)V/&-)Z[&-)[F&-)[f%fc^i%fcY"%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!zzzzzzzzzzzz
+BDFChar: 79 111 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tF]M#J^H"#QOh^
+"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 80 112 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz&-)V/&-)Z[&-)[F&-)[f%fc^i%fcY"%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcY"%fc^i&-)[f
+&-)[F&-)Z[&-)V/%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+
+BDFChar: 81 113 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz!.Y%<!WW2h"98Dj#QOhn#J^?/%tFZL%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn
+"98Dj!WW2h!.Y%<!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g
+
+BDFChar: 82 114 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz!.Y%<!WW2h"98Dj#QOhn#J^?/%tFZL%fcV!%fcV!%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0zzzzzzzzzzzz
+BDFChar: 83 115 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz!.Y%<!WW2h"98Dj#QOhn#J^<>%tFW[%fcS0%fcS0%fcS0%fcS0
+%tFW[#J^<>#QOc'"98CO!WW28!.Y%,!!!,Z!!!&h!!!#g!!!#g!!!#g!!!#g!!!&h!!!,Z&-)[f
+&-)[F&-)Z[&-)V/zzzzzzzzzzzz
+BDFChar: 84 116 32 0 31 -12 51
+zzzzzzzzzzzz!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]
+"989!"989!"989!"989!!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]
+!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'C5]!'UA_!$;1@!$D6V!"]+F!!iP>!!3,8zzzzzzzzzzzz
+BDFChar: 85 117 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL&&827#QOhn
+"98Dj!WW2h!<<)gzzzzzzzzzzzz
+BDFChar: 86 118 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tF]M#J^H""5jF"!UpVM!;IW9!.6s1!'Yc1!$Ct9
+!"\Q!!!hE^!!C":zzzzzzzzzzzz
+BDFChar: 87 119 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%g0W:%g0W:
+%g0W:%g0W:%g0W:%g0W:%g0W:%g0W:%g0W:%g0W:%g0W:%g0W:%g0W:%g0W:%th[e#K+@H#Q-gU
+"8kCQ!W51O!.7$#zzzzzzzzzzzz
+BDFChar: 88 120 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz%fcV!%fcV!%fcV!%tF]M#J^H""5jF"!UpVM!;IW9!.6s1!'Yc1
+!$Ct9!"\Q!!"\Q!!$Ct9!'Yc1!.6s1!;IW9!UpVM"5jF""2G#S#J^H"#J^H"%tF]M%tF]M%fcV!
+%fcV!%fcV!%fcV!zzzzzzzzzzzz
+BDFChar: 89 121 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn
+"98Dj!WW2h!.Y%<!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!&h!!!,Z&-)[f&-)[F&-)Z[&-)V/
+
+BDFChar: 90 122 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz&-)\!&-)\!&-)\!&-)\!!!!#g!!!&h!!!,Z!!!8>!!!O[!!")@
+!!#1_!!%BH!!)co!!2Qh!!D-Z!!g:>!"XS[!$;1@!'UA_!.4bH!;HNo!Up'h"5j.Z#J^<>&-)\!
+&-)\!&-)\!&-)\!zzzzzzzzzzzz
+BDFChar: 91 123 32 0 31 -12 51
+zzzz!!%N<!!3,h!!E8j!!iPn!!g:>!"XS[!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0
+!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0!$;1@!'^G`!.FnJ&,ZD-&,6,)&+BQ!&+BQ!&+BQ!
+&+BQ!&,6,)&,ZD-!.FnJ!'^G`!$;1@!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0
+!"T&0!"T&0!"T&0!"T&0!"T&0!"T&0!"XS[!!g:>!!iPn!!E8j!!3,h!!%N<zzzz
+BDFChar: 92 124 32 0 31 -12 51
+zzzzzzzz!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":zzzzzzzz
+BDFChar: 93 125 32 0 31 -12 51
+zzzz&,lP/&-%.[&-'EF&-(Pf!!D-Z!!2Qh!!)Kg!!)Kg!!)Kg!!)Kg!!)Kg!!)Kg!!)Kg!!)Kg
+!!)Kg!!)Kg!!)Kg!!)Kg!!)Kg!!)Kg!!)Kg!!)co!!)os!!%HJ!!#7Q!!",1!!!Q!!!!Q!!!!Q!
+!!!Q!!!",1!!#7Q!!%HJ!!)os!!)co!!)Kg!!)Kg!!)Kg!!)Kg!!)Kg!!)Kg!!)Kg!!)Kg!!)Kg
+!!)Kg!!)Kg!!)Kg!!)Kg!!)Kg!!)Kg!!2Qh!!D-Z&-(Pf&-'EF&-%.[&,lP/zzzz
+BDFChar: 94 126 32 0 31 -12 51
+zzzzzzzz!-eM5!WE)g"9/Aj#QK>D&'r)]%u937%g2ji%fu^G%flW[%fecnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 95 127 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 96 160 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 97 161 32 0 31 -12 51
+zzzzzzzzzzzz!!C":!!C":!!C":!!C":zzzzzzzz!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":zzzzzzzzzzzz
+BDFChar: 98 162 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzz!!)Kg!!)Kg!!)Kg!!)Kg!.Y%<!WW2h"98Dj#QOhn#Jfg/%tO-L%fl)!
+%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!
+%tO-L#Jfg/#QOhn"98Dj!WW2h!.Y%<!!)Kg!!)Kg!!)Kg!!)Kgzzzzzzzz
+BDFChar: 99 163 32 0 31 -12 51
+zzzzzzzzzzzz!!i9!!$D1?!'gJ`!.Y$!!.5<-!;Hf7!:U*+!:U*+!:Tsg!:Tsg!:Tsg!:Tsg
+!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg&-)Y0&-)Y0&-)Y0&-)Y0!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg
+!:Tsg!:Tsg!:Tsg!:Tsg!:Tsg!T3qX!T3qX"2Fm:"2Fm:&-)\!&-)\!&-)\!&-)\!zzzzzzzzzzzz
+BDFChar: 100 164 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzz"7Qi:!Vdae!;o%]!.K@s!'gA]!.XtJ!<<'!!WW1M"7Qi:"5jF""2G#S
+"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"5jF""7Qi:!WW1M!<<'!!.XtJ!'gA]!.K@s!;o%]
+!Vdae"7Qi:zzzzzzzzzzzzzzzzzz
+BDFChar: 101 165 32 0 31 -12 51
+zzzzzzzzzzzz%fcV!%fcV!#Clj5#Clj5"2G#S"2G#S!T435!T435!:UL!!:UL!!-fOb!-fOb
+!'E@D!'E@D!$6@b!$6@b!"\Q!!"\Q!!!hE^!!hE^!!C":!!C":!!C":!!C":"98D:"98D:"98D:
+"98D:!!C":!!C":!!C":!!C":"98D:"98D:"98D:"98D:!!C":!!C":!!C":!!C":zzzzzzzzzzzz
+BDFChar: 102 166 32 0 31 -12 51
+zzzzzzzz!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":zzzzzzzz!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":zzzzzzzz
+BDFChar: 103 167 32 0 31 -12 51
+zzzzzzzz!$C\1!.XnH!<<#u!WW-!!Ur;R"5k7$"2Fm:"2Fm:"2Fm:"2Fm:"5j.Z!Up'h!VcWp
+!;lfs!.XbD!.XtJ!<<'!!WW1M!UpVM"5jF""2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S"2G#S
+"5jF"!UpVM!WW1M!<<'!!.XtJ!$D1?!!#4`!!"*k!!!O[!!!8>!!!,:!!!,:!!!,:!!!,:!;Hf7
+!;m@X!.Y$!!.Y"K!'gG_!"\i)zzzzzzzz
+BDFChar: 104 168 32 0 31 -12 51
+zzzzzzzzzzzzzz!:UL!!:UL!!:UL!!:UL!!:UL!!:UL!zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 105 169 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!%g2b!%hJU-%j1`=
+%j1`=%mC!_%m0j]%m0j]%m0j]%m0j]%m0j]%m0j]%mC!_%j1`=%j1`=%hJU-%g2b!%fcV!%fcV!
+%tF]M#J^H"#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 106 170 32 0 31 -12 51
+zzzzzzzz!'fBA!'g5Y!'gA]!'gG_!!#1_!!")@!!!N0!!!N0!"])0!'gJ`!.Y"K!.Y"K!;I')
+!:UL!!:UL!!;I')!.Y"K!.Y"K!'gJ`!"])0zzzz!<<'!!<<'!!<<'!!<<'!zzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 107 171 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzzzzzz!"[!:!$@!S!'_"0!.H#?!;o%]!Vh*D"7Z3g#N>FX&&[l:
++,AbS+,AbS&&[l:#N>FX"7Z3g!Vh*D!;o%]!.H#?!'_"0!$@!S!"[!:zzzzzzzzzzzzzzzz
+BDFChar: 108 172 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz&-)\!&-)\!&-)\!&-)\!!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g
+!!!#g!!!#g!!!#g!!!#g!!!#g!!!#gzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 109 173 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"98D:"98D:"98D:"98D:zzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 110 174 32 0 31 -12 51
+zzzzzzzzzzzzzzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!%mTRQ%mTjY%mU!]
+%mU!]%m2uD%m2uD%mU!]%mU!]%mTjY%mTRQ%m5++%m2uD%m2uD%m2uD%m2uD%m2uD%fcV!%fcV!
+%tF]M#J^H"#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzzzzzz
+BDFChar: 111 175 32 0 31 -12 51
+zzzz!<<'!!<<'!!<<'!!<<'!zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 112 176 32 0 31 -12 51
+zzzzzzzzzz!!hE^!$Ct9!'gA]!.XtJ!.6s1!;IW9!:UL!!:UL!!:UL!!:UL!!:UL!!:UL!!;IW9
+!.6s1!.XtJ!'gA]!$Ct9!!hE^zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 113 177 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzz!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":"98D:"98D:"98D:
+"98D:!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":zzzz"98D:"98D:"98D:"98D:zzzzzzzzzzzzzzzz
+BDFChar: 114 178 32 0 31 -12 51
+zzzzzzzzzz!!hE^!$Ct9!'gA]!.XtJ!;IT8!:UL!!!!N0!!!N0!!!N0!!"&?!!#1_!!%BH!!)co
+!!2Qh!!D-Z!!g:>!"XS[!$;1@!'Unn!.5:W!<<'!!<<'!!<<'!!<<'!zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 115 179 32 0 31 -12 51
+zzzzzzzzzz!!hE^!$Ct9!'gA]!.XtJ!;IT8!:UL!!!!N0!!!N0!!!N0!!")@!!E3#!!E-!!!E-!
+!!E3#!!")@!!!N0!!!N0!!!N0!:UL!!;IT8!.XtJ!'gA]!$Ct9!!hE^zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 116 180 32 0 31 -12 51
+zzzzzzzz!!!6(!!!N0!!")@!!#4`!!%HJ!!)os!!2ip!!D]j!!hE^!"ZjF!"XS[!"T&0zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 117 181 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?
+%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?%tGaP&&:EF&-)\-
+&-)\-%tFEQ%j0_W%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+
+BDFChar: 118 182 32 0 31 -12 51
+zzzzzzzzzzzz!.Y%<!WW2h"98Dj#QOhn#K+@H%th[e%g0W:%g0W:%g0W:%g0W:%g0W:%g0W:
+%g0W:%g0W:%th[e#K+@H#QMU/"961+!WTt)!.VfR!!C%+!!C%+!!C%+!!C%+!!C%+!!C%+!!C%+
+!!C%+!!C%+!!C%+!!C%+!!C%+!!C%+!!C%+!!C%+!!C%+!!C%+!!C%+!!C%+!!C%+zzzzzzzzzzzz
+BDFChar: 119 183 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzzzzzz!!C":!!C":!!C":!!C":!!C":!!C":zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 120 184 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!!C":!!C":!!C":!!C":
+!!C":!!C":!!g:>!"XS[!'bu6!'^G`!'UA_!&srY
+BDFChar: 121 185 32 0 31 -12 51
+zzzzzzzzzz!!C":!!g:>!"ZjF!$AuV!'e7!!'e7!!'@sr!&MCj!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!'gA]!'gA]!'gA]!'gA]zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 122 186 32 0 31 -12 51
+zzzzzzzzzz!!hE^!$Ct9!'gA]!.XtJ!.6s1!;IW9!:UL!!:UL!!:UL!!:UL!!:UL!!:UL!!;IW9
+!.6s1!.XtJ!'gA]!$Ct9!!hE^zzzz!<<'!!<<'!!<<'!!<<'!zzzzzzzzzzzzzzzzzzzzzzzzzzzz
+BDFChar: 123 187 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzzzzzz&&[l:#N>FX"7Z3g!Vh*D!;o%]!.H#?!'_"0!$@!S!"[!:
+!!hKX!!hKX!"[!:!$@!S!'_"0!.H#?!;o%]!Vh*D"7Z3g#N>FX&&[l:zzzzzzzzzzzzzzzz
+BDFChar: 124 188 32 0 31 -12 51
+zzzz"2Fm:#J^<>&&8/F+2@jV5JR7!5JR7!42:gr1V`tj"2Fm:"2Fm:"2Fm:"2Fm:"2Fm:"2Fm:
+"2Fn!"2Fna"2Fp7"2Fs8"2G$6"2G025Pu&M5PuV=5Q!`r5Q$!2!!)uu!!2ut!!Dur!!hun!"[uf
+!$AuV!'bu6!.OtK!<)ru!W2ot"8fk6#P5_2&*(G*+2bko5D-kh56Jg=4p/^<49NL:!!C-S!!C-S
+!!C-S!!C-S!!E9!!!E9!!!E9!!!E9!!!!,:!!!,:!!!,:!!!,:!!!,:!!!,:zzzz
+BDFChar: 125 189 32 0 31 -12 51
+zzzz"2Fm:#J^<>&&8/F+2@jV5JR7!5JR7!42:gr1V`tj"2Fm:"2Fm:"2Fm:"2Fm:"2Fm:"2Fm:
+"2Fn!"2Fna"2Fp7"2Fs8"2G$6"2G025Pu&M5PuV=5Q!`r5Q$!2!!)uu!!2ut!!Dur!!hun!"[uf
+!$AuV!'bu6!.OtK!<+'j!W7H*"8Moc#P%ih&*)Sm+2blV5C`_r56([G4obRF49,A+!!!#o!!!&h
+!!!,Z!!!8>!!!O[!!")@!!#1_!!%BH!!)dV!!2RO!!E9!!!E9!!!E9!!!E9!zzzz
+BDFChar: 126 190 32 0 31 -12 51
+zzzz!VcWp#Q=]'&,uV0+9-ik4pQT<49NA!!!C":!!C":!!C":!!g:>!<7QL!<3$!!<3$!!<7QL
+!!g;%!!C#a!!C%7!!C(849NLr4pQl4+9.D[&-!`e#Q?r<!Vh-E!!)uu!!2ut!!Dur!!hun!"[uf
+!$AuV!'bu6!.OtK!<)ru!W2ot"8fk6#P5_2&*(G*+2bko5D-kh56Jg=4p/^<49NL:!!C-S!!C-S
+!!C-S!!C-S!!E9!!!E9!!!E9!!!E9!!!!,:!!!,:!!!,:!!!,:!!!,:!!!,:zzzz
+BDFChar: 127 191 32 0 31 -12 51
+zzzzzzzzzzzz!!C":!!C":!!C":!!C":!!C":!!C":zzzzzz!!C":!!C":!!C":!!C":!!e#S
+!!e#S!"T&0!"T&0!$2+?!$2+?!'C5]!-eJD!:Tsg!T3qX"2Fm:#CldS%fcS0%fcS0%fcS0%fcS0
+%fcV!%fcV!%tF]M#J^H"#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 128 192 32 0 31 -12 51
+zz!'UA_!'^G`!$?^k!"ZjF!!hE^!!D]j!!2ip!!)cozz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!&-)\!&-)\!&-)\!
+&-)\!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!zzzzzzzzzzzz
+BDFChar: 129 193 32 0 31 -12 51
+zz!!%BH!!)os!!2ip!!D]j!!hE^!"ZjF!$?^k!$;1@zz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!&-)\!&-)\!&-)\!
+&-)\!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!zzzzzzzzzzzz
+BDFChar: 130 194 32 0 31 -12 51
+!!C":!!hE^!"\Q!!$Ct9!'gA]!.K@s!;o%]!;IW9zzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!&-)\!&-)\!&-)\!
+&-)\!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!zzzzzzzzzzzz
+BDFChar: 131 195 32 0 31 -12 51
+zz!.Fq;!WR]>"964,#QNiR&'+_.%tjnt%fu]\%fh%Yzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!&-)\!&-)\!&-)\!
+&-)\!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!zzzzzzzzzzzz
+BDFChar: 132 196 32 0 31 -12 51
+zz!:UL!!:UL!!:UL!!:UL!!:UL!!:UL!zzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!&-)\!&-)\!&-)\!&-)\!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!zzzzzzzzzzzz
+BDFChar: 133 197 32 0 31 -12 51
+zz!!C":!!hE^!"\Q!!$Ct9!'E@D!'E@D!'E@D!'E@D!$Ct9!"\Q!!.XtJ!WW1M"98D:#QOh^
+#J^H"%tF]M%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!&-)\!
+&-)\!&-)\!&-)\!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!zzzzzzzzzzzz
+BDFChar: 134 198 32 0 31 -12 51
+zzzzzzzzzzzz!.Y%<!WW2h"98Dj#QOhn#Jfg/%tO-L%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!
+%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!&-)\!&-)\!&-)\!&-)\!%fl)!%fl)!%fl)!%fl)!%fl)!
+%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!%flY!%flY!%flY!%flY!zzzzzzzzzzzz
+BDFChar: 135 199 32 0 31 -12 51
+zzzzzzzzzzzz!.Y%<!WW2h"98Dj#QOhn#J^<>%tFW[%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%tFW[#J^<>#QOhn"98Dj!WW2h!.Y%<!!)Kg!!)Kg
+!!)Kg!!)Kg!!)Kg!!)Kg!!2Qh!!D-Z!"[uf!"ZjF!"XS[!"Ju/
+BDFChar: 136 200 32 0 31 -12 51
+zz!'UA_!'^G`!$?^k!"ZjF!!hE^!!D]j!!2ip!!)cozz!.Y%<!WW2h"98Dj#QOhn#J^<>%tFW[
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0&-)P-&-)P-&-)P-
+&-)P-%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%tFW[#J^<>
+#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 137 201 32 0 31 -12 51
+zz!!%BH!!)os!!2ip!!D]j!!hE^!"ZjF!$?^k!$;1@zz!.Y%<!WW2h"98Dj#QOhn#J^<>%tFW[
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0&-)P-&-)P-&-)P-
+&-)P-%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%tFW[#J^<>
+#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 138 202 32 0 31 -12 51
+!!C":!!hE^!"\Q!!$Ct9!'gA]!.K@s!;o%]!;IW9zzzz!.Y%<!WW2h"98Dj#QOhn#J^<>%tFW[
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0&-)P-&-)P-&-)P-
+&-)P-%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%tFW[#J^<>
+#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 139 203 32 0 31 -12 51
+zz!:UL!!:UL!!:UL!!:UL!!:UL!!:UL!zzzz!.Y%<!WW2h"98Dj#QOhn#J^<>%tFW[%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0&-)P-&-)P-&-)P-&-)P-
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%tFW[#J^<>#QOhn
+"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 140 204 32 0 31 -12 51
+zz!'UA_!'^G`!$?^k!"ZjF!!hE^!!D]j!!2ip!!)cozz"98D:"98D:"98D:"98D:!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+"98D:"98D:"98D:"98D:zzzzzzzzzzzz
+BDFChar: 141 205 32 0 31 -12 51
+zz!!%BH!!)os!!2ip!!D]j!!hE^!"ZjF!$?^k!$;1@zz"98D:"98D:"98D:"98D:!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+"98D:"98D:"98D:"98D:zzzzzzzzzzzz
+BDFChar: 142 206 32 0 31 -12 51
+!!C":!!hE^!"\Q!!$Ct9!'gA]!.K@s!;o%]!;IW9zzzz"98D:"98D:"98D:"98D:!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+"98D:"98D:"98D:"98D:zzzzzzzzzzzz
+BDFChar: 143 207 32 0 31 -12 51
+zz!:UL!!:UL!!:UL!!:UL!!:UL!!:UL!zzzz"98D:"98D:"98D:"98D:!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":"98D:
+"98D:"98D:"98D:zzzzzzzzzzzz
+BDFChar: 144 208 32 0 31 -12 51
+zzzzzzzzzzzz&-)V/&-)Z[&-)[F&-)[f%fc^i%fcY"%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!s8N)gs8N)gs8N)gs8N)g%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcY"%fc^i&-)[f&-)[F&-)Z[&-)V/zzzzzzzzzzzz
+BDFChar: 145 209 32 0 31 -12 51
+zz!.Fq;!WR]>"964,#QNiR&'+_.%tjnt%fu]\%fh%Yzz%fcV!%fcV!%tFZL%tFZL&&827&&827
+&)[HW&)[HW&+BSg&+BSg&,6.o&,6.o%t"BH%t"BH%mC!_%mC!_%j(f@%j(f@%hF3[%hF3[%gTo>
+%gTo>%g1bZ%g1bZ%fu1h%fu1h%flCo%flCo%fh"H%fh"H%fef_%fef_%fd^@%fd^@%fd.0%fd.0
+%fck(%fck(%fc_$%fc_$zzzzzzzzzzzz
+BDFChar: 146 210 32 0 31 -12 51
+zz!'UA_!'^G`!$?^k!"ZjF!!hE^!!D]j!!2ip!!)cozz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tF]M#J^H"
+#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 147 211 32 0 31 -12 51
+zz!!%BH!!)os!!2ip!!D]j!!hE^!"ZjF!$?^k!$;1@zz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tF]M#J^H"
+#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 148 212 32 0 31 -12 51
+!!C":!!hE^!"\Q!!$Ct9!'gA]!.K@s!;o%]!;IW9zzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tF]M#J^H"
+#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 149 213 32 0 31 -12 51
+zz!.Fq;!WR]>"964,#QNiR&'+_.%tjnt%fu]\%fh%Yzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tF]M#J^H"
+#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 150 214 32 0 31 -12 51
+zz!:UL!!:UL!!:UL!!:UL!!:UL!!:UL!zzzz!.XtJ!WW1M"98D:#QOh^#J^H"%tF]M%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tF]M#J^H"#QOh^
+"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 151 215 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzz%KHKJ%fcV!%tF]M&&8;:#N,jF"7Qi:!Vdae!;o%]!.K@s!'gA]!$Ct9
+!"\Q!!"\Q!!$Ct9!'gA]!.K@s!;o%]!Vdae"7Qi:#N,jF&&8;:%tF]M%fcV!%KHKJzzzzzzzzzzzzzzzzzzzz
+BDFChar: 152 216 32 0 31 -12 51
+zzzzzzzz!!!#g!!!#g!!!&h!!!&h!.Y%,!WW2X"98D:#QOh^#J^l>%tG2[%fd^@%fd^@%fef_
+%fef_%fh"H%fh"H%flCo%flCo%fu1h%fu1h%g1bZ%g1bZ%gTo>%gTo>%hF3[%hF3[%j(f@%j(f@
+%mC!_%mC!_%t"BH%t"BH&,6.o&,6.o&+BSg&+BSg&)[HW&)[HW&&858&&8;*&-)[f&-)[F&-)Z[
+&-)V/*WQ0?*WQ0?49,?]49,?]zzzzzzzz
+BDFChar: 153 217 32 0 31 -12 51
+zz!'UA_!'^G`!$?^k!"ZjF!!hE^!!D]j!!2ip!!)cozz%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/
+#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 154 218 32 0 31 -12 51
+zz!!%BH!!)os!!2ip!!D]j!!hE^!"ZjF!$?^k!$;1@zz%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/
+#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 155 219 32 0 31 -12 51
+!!C":!!hE^!"\Q!!$Ct9!'gA]!.K@s!;o%]!;IW9zzzz%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/
+#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 156 220 32 0 31 -12 51
+zz!:UL!!:UL!!:UL!!:UL!!:UL!!:UL!zzzz%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn
+"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 157 221 32 0 31 -12 51
+zz!!%BH!!)os!!2ip!!D]j!!hE^!"ZjF!$?^k!$;1@zz%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h
+!.Y%<!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!&h!!!,Z
+&-)[f&-)[F&-)Z[&-)V/zzzzzzzzzzzz
+BDFChar: 158 222 32 0 31 -12 51
+zzzzzzzzzzzzzzzz%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0&-)V/&-)Z[&-)[F
+&-)[f%fc^i%fcY"%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcY"%fc^i&-)[f&-)[F&-)Z[&-)V/%fcS0%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0zzzz
+BDFChar: 159 223 32 0 31 -12 51
+zzzzzzzzzzzz!.Wo,!WVop"989!#QOc'#J`M'%tG`%%fd+?%fd+?%fd+?%fd+?%fd+?%fd+?
+%fd+?%fd+?%fd[O%fefo&-)V/&-)P-&-)D)&-),!%g2_0%flV0%fei0%fd-u%fc_$%fcY"%fcV!
+%fcV!%fcV!%fcV!%fcV!%tFZL&&827&)[HW&+BVh&,ZOf%tFW;%mU*0%j1h%%hJX>zzzzzzzzzzzz
+BDFChar: 160 224 32 0 31 -12 51
+zzzzzzzz!&srY!'C5]!'UA_!'^G`!$?^k!"ZjF!!hE^!!D]j!!2ip!!)os!!%BH!!#+]zzzz"98?#
+"98CO"98D:"98DZ!!!,Z!!!&h!!!#g!!!#g!!!#g!!!#g!.Y%<!WW2h"98Dj#QOhn#J^?/%tFZL
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 161 225 32 0 31 -12 51
+zzzzzzzz!!!6(!!!N0!!")@!!#4`!!%HJ!!)os!!2ip!!D]j!!hE^!"ZjF!"XS[!"T&0zzzz"98?#
+"98CO"98D:"98DZ!!!,Z!!!&h!!!#g!!!#g!!!#g!!!#g!.Y%<!WW2h"98Dj#QOhn#J^?/%tFZL
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 162 226 32 0 31 -12 51
+zzzzzzzz!!C":!!hE^!"\Q!!$Ct9!'gA]!.K@s!;o%]!Vdae"7Qi:"5jF""2G#S"+UEfzzzz"98?#
+"98CO"98D:"98DZ!!!,Z!!!&h!!!#g!!!#g!!!#g!!!#g!.Y%<!WW2h"98Dj#QOhn#J^?/%tFZL
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 163 227 32 0 31 -12 51
+zzzzzzzz!-eM5!WE)g"9/Aj#QK>D&'r)]%u937%g2ji%fu^G%flW[%fecnzzzzzz"98?#"98CO
+"98D:"98DZ!!!,Z!!!&h!!!#g!!!#g!!!#g!!!#g!.Y%<!WW2h"98Dj#QOhn#J^?/%tFZL%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 164 228 32 0 31 -12 51
+zzzzzzzzzzzz!:UL!!:UL!!:UL!!:UL!!:UL!!:UL!zzzzzz"98?#"98CO"98D:"98DZ!!!,Z
+!!!&h!!!#g!!!#g!!!#g!!!#g!.Y%<!WW2h"98Dj#QOhn#J^?/%tFZL%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 165 229 32 0 31 -12 51
+zzzzzzzz!!2!X!!i9!!"\u-!$D1?!$30]!'Cbl!'Cbl!'Cbl!'Cbl!$30]!$D1?!"\u-!!i9!
+!!2!Xzz"98?#"98CO"98D:"98DZ!!!,Z!!!&h!!!#g!!!#g!!!#g!!!#g!.Y%<!WW2h"98Dj
+#QOhn#J^?/%tFZL%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<
+zzzzzzzzzzzz
+BDFChar: 166 230 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz"9/o3"95"n"98E$"98E$!!E-0!!2j*!!)L!!!)L!!!)L!!!)L!
+!.XJK!WVX""98E$#QOi(#JgB>%tO][%fl)!%fl)!%fl)!%fl)!%fl)!%fl)!%tXKU#K-H>#QOi(
+"98E$!WSel!.POZzzzzzzzzzzzz
+BDFChar: 167 231 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz!.Y%<!WW2h"98Dj#QOhn#J^<>%tFW[%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%tFW[#J^<>#QOhn
+"98Dj!WW2h!.Y%<!!)Kg!!)Kg!!)Kg!!)Kg!!)Kg!!)Kg!!2Qh!!D-Z!"[uf!"ZjF!"XS[!"Ju/
+
+BDFChar: 168 232 32 0 31 -12 51
+zzzzzzzz!&srY!'C5]!'UA_!'^G`!$?^k!"ZjF!!hE^!!D]j!!2ip!!)os!!%BH!!#+]zzzz!.Y%<
+!WW2h"98Dj#QOhn#J^?/%tFZL%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!&-)\!&-)\!&-)\!&-)\!
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%tFW[#J^<>#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 169 233 32 0 31 -12 51
+zzzzzzzz!!!6(!!!N0!!")@!!#4`!!%HJ!!)os!!2ip!!D]j!!hE^!"ZjF!"XS[!"T&0zzzz!.Y%<
+!WW2h"98Dj#QOhn#J^?/%tFZL%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!&-)\!&-)\!&-)\!&-)\!
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%tFW[#J^<>#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 170 234 32 0 31 -12 51
+zzzzzzzz!!C":!!hE^!"\Q!!$Ct9!'gA]!.K@s!;o%]!Vdae"7Qi:"5jF""2G#S"+UEfzzzz!.Y%<
+!WW2h"98Dj#QOhn#J^?/%tFZL%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!&-)\!&-)\!&-)\!&-)\!
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%tFW[#J^<>#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 171 235 32 0 31 -12 51
+zzzzzzzzzzzz!:UL!!:UL!!:UL!!:UL!!:UL!!:UL!zzzzzz!.Y%<!WW2h"98Dj#QOhn#J^?/
+%tFZL%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!&-)\!&-)\!&-)\!&-)\!%fcS0%fcS0%fcS0%fcS0
+%fcS0%fcS0%tFW[#J^<>#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 172 236 32 0 31 -12 51
+zzzzzzzz!&srY!'C5]!'UA_!'^G`!$?^k!"ZjF!!hE^!!D]j!!2ip!!)os!!%BH!!#+]zzzz!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":zzzzzzzzzzzz
+BDFChar: 173 237 32 0 31 -12 51
+zzzzzzzz!!!u=!!#+]!!%BH!!)os!!2ip!!D]j!!hE^!"ZjF!$?^k!'^G`!'UA_!'C5]zzzz!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":zzzzzzzzzzzz
+BDFChar: 174 238 32 0 31 -12 51
+zzzzzzzz!!C":!!hE^!"\Q!!$Ct9!'gA]!.K@s!;o%]!Vdae"7Qi:"5jF""2G#S"+UEfzzzz!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":zzzzzzzzzzzz
+BDFChar: 175 239 32 0 31 -12 51
+zzzzzzzzzzzz!:UL!!:UL!!:UL!!:UL!!:UL!!:UL!zzzzzz!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":
+!!C":!!C":!!C":!!C":!!C":!!C":!!C":!!C":zzzzzzzzzzzz
+BDFChar: 176 240 32 0 31 -12 51
+zzzzzzzzzz"2hnS"6[H""96.:!WRZM!<3$!!.FnJ!<3$!!WRZM"96.:"8C^R"68kN"2Xa4!!)os
+!!%HJ!.Y"K!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tF]M#J^H"#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 177 241 32 0 31 -12 51
+zzzzzzzz!-eM5!WE)g"9/Aj#QK>D&'r)]%u937%g2ji%fu^G%flW[%fecnzzzzzz&-)V/&-)Z[
+&-)[F&-)[f%fc^i%fcY"%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!zzzzzzzzzzzz
+BDFChar: 178 242 32 0 31 -12 51
+zzzzzzzz!&srY!'C5]!'UA_!'^G`!$?^k!"ZjF!!hE^!!D]j!!2ip!!)os!!%BH!!#+]zzzz!.XtJ
+!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tF]M#J^H"#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 179 243 32 0 31 -12 51
+zzzzzzzz!!!u=!!#+]!!%BH!!)os!!2ip!!D]j!!hE^!"ZjF!$?^k!'^G`!'UA_!'C5]zzzz!.XtJ
+!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tF]M#J^H"#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 180 244 32 0 31 -12 51
+zzzzzzzz!!C":!!hE^!"\Q!!$Ct9!'gA]!.K@s!;o%]!Vdae"7Qi:"5jF""2G#S"+UEfzzzz!.XtJ
+!WW1M"98D:#QOh^#J^H"%tF]M%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tF]M#J^H"#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 181 245 32 0 31 -12 51
+zzzzzzzz!:U$I"8i2X#Q=b^&,u[g+.n2D*tQEM*XD_\*WuFm*Wc9@*WUQfzzzzzz!.XtJ!WW1M
+"98D:#QOh^#J^H"%tF]M%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%tF]M#J^H"#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 182 246 32 0 31 -12 51
+zzzzzzzzzzzz!:UL!!:UL!!:UL!!:UL!!:UL!!:UL!zzzzzz!.XtJ!WW1M"98D:#QOh^#J^H"
+%tF]M%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%tF]M#J^H"#QOh^"98D:!WW1M!.XtJzzzzzzzzzzzz
+BDFChar: 183 247 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzz!!C":!!C":!!C":!!C":!!C":!!C":zzzz"98D:"98D:"98D:
+"98D:zzzz!!C":!!C":!!C":!!C":!!C":!!C":zzzzzzzzzzzzzzzzzz
+BDFChar: 184 248 32 0 31 -12 51
+zzzzzzzzzzzzzzzzzzzzzzzz!.Xtf!WW24"98E!#QOi!#J^H2%tFcO%fck(%fd.0%fd^@%fei`
+%fh(J%flOs%fuIp%g2=j%gV%^%hHJF%j->k%mL'`%t4NJ&,ZFs&,6.o&+BSg&)[KX&&8;*+92B!
+5QCc!4obP43.Lo-zzzzzzzzzzzz
+BDFChar: 185 249 32 0 31 -12 51
+zzzzzzzz!&srY!'C5]!'UA_!'^G`!$?^k!"ZjF!!hE^!!D]j!!2ip!!)os!!%BH!!#+]zzzz%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 186 250 32 0 31 -12 51
+zzzzzzzz!!!u=!!#+]!!%BH!!)os!!2ip!!D]j!!hE^!"ZjF!$?^k!'^G`!'UA_!'C5]zzzz%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 187 251 32 0 31 -12 51
+zzzzzzzz!!C":!!hE^!"\Q!!$Ct9!'gA]!.K@s!;o%]!Vdae"7Qi:"5jF""2G#S"+UEfzzzz%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 188 252 32 0 31 -12 51
+zzzzzzzzzzzz!:UL!!:UL!!:UL!!:UL!!:UL!!:UL!zzzzzz%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<zzzzzzzzzzzz
+BDFChar: 189 253 32 0 31 -12 51
+zzzzzzzz!!!u=!!#+]!!%BH!!)os!!2ip!!D]j!!hE^!"ZjF!$?^k!'^G`!'UA_!'C5]zzzz%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<!!!#g!!!#g!!!#g
+!!!#g!!!#g!!!#g!!!&h!!!,Z&-)[f&-)[F&-)Z[&-)V/
+BDFChar: 190 254 32 0 31 -12 51
+zzzzzzzzzzzz%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+&-)V/&-)Z[&-)[F&-)[f%fc^i%fcY"%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcY"%fc^i&-)[f&-)[F&-)Z[&-)V/%fcS0%fcS0
+%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0%fcS0
+BDFChar: 191 255 32 0 31 -12 51
+zzzzzzzzzzzz!:UL!!:UL!!:UL!!:UL!!:UL!!:UL!zzzzzz%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!%fcV!
+%fcV!%fcV!%tFZL#J^?/#QOhn"98Dj!WW2h!.Y%<!!!#g!!!#g!!!#g!!!#g!!!#g!!!#g!!!&h
+!!!,Z&-)[f&-)[F&-)Z[&-)V/
+EndBitmapFont
+EndSplineFont
