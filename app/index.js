@@ -54,66 +54,114 @@ var Colors = {
     Yellow: 0xFFFF00
 };
 (function () { return __awaiter(void 0, void 0, void 0, function () {
-    var matrix_1, font, lines, glyphs, _i, glyphs_1, glyph, error_1;
+    var matrix_1, font, x, y, i, lines, i, normalFont, lines2, glyphs2, _i, glyphs2_1, glyph, error_1;
     return __generator(this, function (_a) {
         switch (_a.label) {
             case 0:
-                _a.trys.push([0, 7, , 8]);
+                _a.trys.push([0, 18, , 19]);
                 matrix_1 = new rpi_led_matrix_1.LedMatrix(config_1.matrixOptions, config_1.runtimeOptions);
-                font = new rpi_led_matrix_1.Font('10x20.bdf', './fonts/6x10.bdf');
+                font = new rpi_led_matrix_1.Font('10x20.bdf', './fonts/mysticalDuck-64.bdf');
                 matrix_1.font(font);
                 matrix_1
                     .clear() // clear the display
-                    .brightness(100) // set the panel brightness to 100%
+                    .brightness(50) // set the panel brightness to 100%
                     .fgColor(0x0000FF) // set the active color to blue
                     .fill();
-                // color the entire diplay blue
-                // draw a yellow circle around the display
-                // .drawCircle(matrix.width() / 2, matrix.height() / 2, matrix.width() / 2 - 1)
-                // draw a yellow rectangle
-                //  .drawRect(matrix.width() / 4, matrix.height() / 4, matrix.width() / 2, matrix.height() / 2)
-                // sets the active color to red
-                // .fgColor({ r: 255, g: 0, b: 0 })
-                // draw two diagonal red lines connecting the corners
-                // .drawLine(0, 0, matrix.width(), matrix.height())
-                //  .drawLine(matrix.width() - 1, 0, 0, matrix.height() - 1);
                 matrix_1.sync();
                 return [4 /*yield*/, wait(3000)];
             case 1:
                 _a.sent();
+                console.log(matrix_1.width() + "-- height" + matrix_1.height());
                 matrix_1
-                    .clear()
-                    .sync();
-                lines = rpi_led_matrix_1.LayoutUtils.textToLines(font, matrix_1.width(), "Marcel ist ein cooler dude!");
-                glyphs = rpi_led_matrix_1.LayoutUtils.linesToMappedGlyphs(lines, font.height(), matrix_1.width(), matrix_1.height(), alignmentH, alignmentV);
-                _i = 0, glyphs_1 = glyphs;
+                    .fgColor(0xFFFF00);
+                x = 0;
+                y = 0;
+                i = 1;
                 _a.label = 2;
             case 2:
-                if (!(_i < glyphs_1.length)) return [3 /*break*/, 5];
-                glyph = glyphs_1[_i];
-                matrix_1.drawText(glyph.char, glyph.x, glyph.y);
-                matrix_1.sync();
-                return [4 /*yield*/, wait(150 * Math.random() + 20)];
+                if (!(i <= matrix_1.height() / 2)) return [3 /*break*/, 5];
+                matrix_1.drawRect(x, y, matrix_1.width() - i - x, matrix_1.height() - i - y);
+                x++;
+                y++;
+                return [4 /*yield*/, wait(120)];
             case 3:
                 _a.sent();
+                matrix_1.sync();
                 _a.label = 4;
             case 4:
-                _i++;
+                i++;
                 return [3 /*break*/, 2];
             case 5:
+                // set the active color to yellow
+                matrix_1
+                    .fgColor(Colors.Red)
+                    .fill()
+                    .sync();
+                return [4 /*yield*/, wait(250)];
+            case 6:
+                _a.sent();
+                matrix_1
+                    .clear()
+                    .fgColor(Colors.Blue)
+                    .sync();
+                lines = rpi_led_matrix_1.LayoutUtils.textToLines(font, matrix_1.width(), "A");
+                matrix_1.clear();
+                matrix_1
+                    .brightness(50);
+                return [4 /*yield*/, wait(100)];
+            case 7:
+                _a.sent();
+                matrix_1
+                    .brightness(0);
+                return [4 /*yield*/, wait(250)];
+            case 8:
+                _a.sent();
+                i = 10;
+                _a.label = 9;
+            case 9:
+                if (!(i <= 100)) return [3 /*break*/, 12];
+                matrix_1.brightness(i);
                 rpi_led_matrix_1.LayoutUtils.linesToMappedGlyphs(lines, font.height(), matrix_1.width(), matrix_1.height(), alignmentH, alignmentV).map(function (glyph) {
                     matrix_1.drawText(glyph.char, glyph.x, glyph.y);
                 });
                 matrix_1.sync();
-                return [4 /*yield*/, wait(80000)];
-            case 6:
+                return [4 /*yield*/, wait(100)];
+            case 10:
                 _a.sent();
-                return [3 /*break*/, 8];
-            case 7:
+                _a.label = 11;
+            case 11:
+                i = i + 2;
+                return [3 /*break*/, 9];
+            case 12:
+                matrix_1.sync();
+                matrix_1.clear();
+                normalFont = new rpi_led_matrix_1.Font('tom.bdf', './fonts/7x14.bdf');
+                matrix_1.font(normalFont);
+                lines2 = rpi_led_matrix_1.LayoutUtils.textToLines(normalFont, matrix_1.width(), "Mystical Ducks");
+                glyphs2 = rpi_led_matrix_1.LayoutUtils.linesToMappedGlyphs(lines2, normalFont.height(), matrix_1.width(), matrix_1.height(), alignmentH, alignmentV);
+                _i = 0, glyphs2_1 = glyphs2;
+                _a.label = 13;
+            case 13:
+                if (!(_i < glyphs2_1.length)) return [3 /*break*/, 16];
+                glyph = glyphs2_1[_i];
+                matrix_1.drawText(glyph.char, glyph.x, glyph.y);
+                matrix_1.sync();
+                return [4 /*yield*/, wait(150 * Math.random() + 20)];
+            case 14:
+                _a.sent();
+                _a.label = 15;
+            case 15:
+                _i++;
+                return [3 /*break*/, 13];
+            case 16: return [4 /*yield*/, wait(80000)];
+            case 17:
+                _a.sent();
+                return [3 /*break*/, 19];
+            case 18:
                 error_1 = _a.sent();
                 console.error("caught: ", error_1);
-                return [3 /*break*/, 8];
-            case 8: return [2 /*return*/];
+                return [3 /*break*/, 19];
+            case 19: return [2 /*return*/];
         }
     });
 }); })();
