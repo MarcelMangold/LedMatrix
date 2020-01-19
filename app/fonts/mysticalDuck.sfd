@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1578998775
-ModificationTime: 1578998841
+ModificationTime: 1579449422
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -312,7 +312,7 @@ EndChar
 
 StartChar: LATIN
 Encoding: 65 65 33
-Width: 1000
+Width: 500
 VWidth: 0
 Flags: W
 LayerCount: 2
@@ -1727,11 +1727,8 @@ BDFChar: 31 63 32 4 27 0 39
 BDFChar: 32 64 32 4 27 0 35
 #QN^(s7ehYr."bGHiQA*!$C\1&+BQ0n,O!g!"\Q`&+Ddon37HQ57d6J&+Ddon37HQ57d6J&+Ddo
 n37HQ57d6Js6r8Qn3?sB5QC3Q!:Tsgn,NIX!!)co!.4bHJ,fF2s83u=r!39"
-BDFChar: 33 65 64 9 51 1 40
-!WE'!!!!-$z"9/?$!!!-$z"9/?$!!!-$z"9/?$zz"9/?$!!!Q0J,fQL#QVX?!!!-#z&,uV0
-!!",@J,fQL5QAM!!!#7`huE`WJ,f!<!!%NKp](PLJ,fEH%fh+Zqu@c<J,UJh49.VD"orlJ5Bm53
-rrAR1p^dB)i-55$rW)G#s8W&ur!39%r8@>ls8Vo1n/q]1qgdTHs8W*!^d%>grW%I5i",_c!'eL(
-!!!!`O73,L!'_S*qu?^<5QCW]!$6Xip](:6J,eF,!"AWE^]4?@i!7$t
+BDFChar: 33 65 32 -25 16 0 30
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 BDFChar: 34 66 32 4 27 0 39
 s8V$Ws7lWor;Zfrn,PZA!$C\1&+BQ0n,O!g!"\Q!&+BQ0n,O!g!"\Q!*q0.ls8Vlos7$'gnGiO`
 n,PT?!$:V0&+BQ0n,O!g!"\Q!&+BQ0n,O!g!"\Q!&+BQ0n,O!g!"\Q!+7K7os8W)us8;osq#CBP
