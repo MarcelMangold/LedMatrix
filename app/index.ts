@@ -4,11 +4,13 @@ import {
     VerticalAlignment, Font, LayoutUtils, LedMatrix
 } from 'rpi-led-matrix';
 import { matrixOptions, runtimeOptions } from './config/config';
+import {Functions} from './helper/functions';
 
 const wait = (t: number) => new Promise(ok => setTimeout(ok, t));
 let alignmentH: HorizontalAlignment = HorizontalAlignment.Center;
 let alignmentV: VerticalAlignment = VerticalAlignment.Middle;
 
+let functions;
 const Colors = {
     Aquamarine: 0x7FFFD4,
     Black: 0x000000,
@@ -26,17 +28,19 @@ const Colors = {
 (async () => {
     try {
         const matrix = new LedMatrix(matrixOptions, runtimeOptions);
-        const font = new Font('10x20.bdf', './fonts/mysticalDuck-64.bdf');
-        matrix.font(font);
-
+        functions = new Functions(matrix);
+        functions.addFont('MysticalDuckFont', './fonts/mysticalDuck-64.bdf')
+        
+        //start screen
         matrix
-            .clear()            // clear the display
-            .brightness(50)    // set the panel brightness to 100%
-            .fgColor(0x0000FF)  // set the active color to blue
+            .clear()           
+            .brightness(50)    
+            .fgColor(0x0000FF)  
             .fill()
         matrix.sync();
         await wait(3000);
-        console.log(matrix.width() + "-- height" + matrix.height());
+  
+        //change screen from blue to yellow with rectangles
         matrix
             .fgColor(0xFFFF00)
         let x = 0;
@@ -48,56 +52,40 @@ const Colors = {
             await wait(120);
             matrix.sync();
         }
-        // set the active color to yellow
+
+        //change screen color to red
         matrix
             .fgColor(Colors.Red)
             .fill()
             .sync();
-
         await wait(250);
+
+        //change screen color to aquamarine
         matrix
             .clear()
+            .fgColor(Colors.Aquamarine)
+            .sync()
+        await wait(100);
+
+        //set brightness and color
+        matrix
             .fgColor(Colors.Blue)
             .sync();
-        const lines = LayoutUtils.textToLines(font, matrix.width(), "A");
-
-        matrix.clear();
         matrix
-            .brightness(50);
+            .brightness(50)
+            .sync();
         await wait(100);
         matrix
             .brightness(0);
         await wait(250);
 
-
-
-
-        for (let i = 10; i <= 100; i = i + 2) {
-            matrix.brightness(i);
-            LayoutUtils.linesToMappedGlyphs(lines, font.height(), matrix.width(), matrix.height(), alignmentH, alignmentV).map(glyph => {
-                matrix.drawText(glyph.char, glyph.x, glyph.y);
-            });
-            matrix.sync();
-            await wait(100);
-        }
-
-
-        matrix.sync();
-        matrix.clear();
-
-        const normalFont = new Font('tom.bdf', './fonts/7x14.bdf');
-        matrix.font(normalFont);
-        const lines2 = LayoutUtils.textToLines(normalFont, matrix.width(), "Mystical Ducks");
-        const glyphs2 = LayoutUtils.linesToMappedGlyphs(lines2, normalFont.height(), matrix.width(), matrix.height(), alignmentH, alignmentV);
- 
-
-           for (const glyph of glyphs2) {
-               matrix.drawText(glyph.char, glyph.x, glyph.y);
-               matrix.sync();
-               await wait(150 * Math.random() + 20);
-           }
-
+        //add mystical duck symbol
+        await functions.drawSign('A');
         
+        //add mystical duck text
+        matrix.clear();
+        functions.addFont('tom.bdf', './fonts/7x14.bdf');
+        functions.drawText("Mystical Ducks");        
 
 
         await wait(80000);

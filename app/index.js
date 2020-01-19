@@ -38,9 +38,11 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 exports.__esModule = true;
 var rpi_led_matrix_1 = require("rpi-led-matrix");
 var config_1 = require("./config/config");
+var functions_1 = require("./helper/functions");
 var wait = function (t) { return new Promise(function (ok) { return setTimeout(ok, t); }); };
 var alignmentH = rpi_led_matrix_1.HorizontalAlignment.Center;
 var alignmentV = rpi_led_matrix_1.VerticalAlignment.Middle;
+var functions;
 var Colors = {
     Aquamarine: 0x7FFFD4,
     Black: 0x000000,
@@ -54,114 +56,91 @@ var Colors = {
     Yellow: 0xFFFF00
 };
 (function () { return __awaiter(void 0, void 0, void 0, function () {
-    var matrix_1, font, x, y, i, lines, i, normalFont, lines2, glyphs2, _i, glyphs2_1, glyph, error_1;
+    var matrix, x, y, i, error_1;
     return __generator(this, function (_a) {
         switch (_a.label) {
             case 0:
-                _a.trys.push([0, 18, , 19]);
-                matrix_1 = new rpi_led_matrix_1.LedMatrix(config_1.matrixOptions, config_1.runtimeOptions);
-                font = new rpi_led_matrix_1.Font('10x20.bdf', './fonts/mysticalDuck-64.bdf');
-                matrix_1.font(font);
-                matrix_1
-                    .clear() // clear the display
-                    .brightness(50) // set the panel brightness to 100%
-                    .fgColor(0x0000FF) // set the active color to blue
+                _a.trys.push([0, 12, , 13]);
+                matrix = new rpi_led_matrix_1.LedMatrix(config_1.matrixOptions, config_1.runtimeOptions);
+                functions = new functions_1.Functions(matrix);
+                functions.addFont('MysticalDuckFont', './fonts/mysticalDuck-64.bdf');
+                //start screen
+                matrix
+                    .clear()
+                    .brightness(50)
+                    .fgColor(0x0000FF)
                     .fill();
-                matrix_1.sync();
+                matrix.sync();
                 return [4 /*yield*/, wait(3000)];
             case 1:
                 _a.sent();
-                console.log(matrix_1.width() + "-- height" + matrix_1.height());
-                matrix_1
+                //change screen from blue to yellow with rectangles
+                matrix
                     .fgColor(0xFFFF00);
                 x = 0;
                 y = 0;
                 i = 1;
                 _a.label = 2;
             case 2:
-                if (!(i <= matrix_1.height() / 2)) return [3 /*break*/, 5];
-                matrix_1.drawRect(x, y, matrix_1.width() - i - x, matrix_1.height() - i - y);
+                if (!(i <= matrix.height() / 2)) return [3 /*break*/, 5];
+                matrix.drawRect(x, y, matrix.width() - i - x, matrix.height() - i - y);
                 x++;
                 y++;
                 return [4 /*yield*/, wait(120)];
             case 3:
                 _a.sent();
-                matrix_1.sync();
+                matrix.sync();
                 _a.label = 4;
             case 4:
                 i++;
                 return [3 /*break*/, 2];
             case 5:
-                // set the active color to yellow
-                matrix_1
+                //change screen color to red
+                matrix
                     .fgColor(Colors.Red)
                     .fill()
                     .sync();
                 return [4 /*yield*/, wait(250)];
             case 6:
                 _a.sent();
-                matrix_1
+                //change screen color to aquamarine
+                matrix
                     .clear()
-                    .fgColor(Colors.Blue)
+                    .fgColor(Colors.Aquamarine)
                     .sync();
-                lines = rpi_led_matrix_1.LayoutUtils.textToLines(font, matrix_1.width(), "A");
-                matrix_1.clear();
-                matrix_1
-                    .brightness(50);
                 return [4 /*yield*/, wait(100)];
             case 7:
                 _a.sent();
-                matrix_1
-                    .brightness(0);
-                return [4 /*yield*/, wait(250)];
+                //set brightness and color
+                matrix
+                    .fgColor(Colors.Blue)
+                    .sync();
+                matrix
+                    .brightness(50)
+                    .sync();
+                return [4 /*yield*/, wait(100)];
             case 8:
                 _a.sent();
-                i = 10;
-                _a.label = 9;
+                matrix
+                    .brightness(0);
+                return [4 /*yield*/, wait(250)];
             case 9:
-                if (!(i <= 100)) return [3 /*break*/, 12];
-                matrix_1.brightness(i);
-                rpi_led_matrix_1.LayoutUtils.linesToMappedGlyphs(lines, font.height(), matrix_1.width(), matrix_1.height(), alignmentH, alignmentV).map(function (glyph) {
-                    matrix_1.drawText(glyph.char, glyph.x, glyph.y);
-                });
-                matrix_1.sync();
-                return [4 /*yield*/, wait(100)];
+                _a.sent();
+                return [4 /*yield*/, functions.drawSign('A')];
             case 10:
                 _a.sent();
-                _a.label = 11;
+                matrix.clear();
+                functions.addFont('tom.bdf', './fonts/7x14.bdf');
+                functions.drawText("Mystical Ducks");
+                return [4 /*yield*/, wait(80000)];
             case 11:
-                i = i + 2;
-                return [3 /*break*/, 9];
-            case 12:
-                matrix_1.sync();
-                matrix_1.clear();
-                normalFont = new rpi_led_matrix_1.Font('tom.bdf', './fonts/7x14.bdf');
-                matrix_1.font(normalFont);
-                lines2 = rpi_led_matrix_1.LayoutUtils.textToLines(normalFont, matrix_1.width(), "Mystical Ducks");
-                glyphs2 = rpi_led_matrix_1.LayoutUtils.linesToMappedGlyphs(lines2, normalFont.height(), matrix_1.width(), matrix_1.height(), alignmentH, alignmentV);
-                _i = 0, glyphs2_1 = glyphs2;
-                _a.label = 13;
-            case 13:
-                if (!(_i < glyphs2_1.length)) return [3 /*break*/, 16];
-                glyph = glyphs2_1[_i];
-                matrix_1.drawText(glyph.char, glyph.x, glyph.y);
-                matrix_1.sync();
-                return [4 /*yield*/, wait(150 * Math.random() + 20)];
-            case 14:
                 _a.sent();
-                _a.label = 15;
-            case 15:
-                _i++;
                 return [3 /*break*/, 13];
-            case 16: return [4 /*yield*/, wait(80000)];
-            case 17:
-                _a.sent();
-                return [3 /*break*/, 19];
-            case 18:
+            case 12:
                 error_1 = _a.sent();
                 console.error("caught: ", error_1);
-                return [3 /*break*/, 19];
-            case 19: return [2 /*return*/];
+                return [3 /*break*/, 13];
+            case 13: return [2 /*return*/];
         }
     });
 }); })();
